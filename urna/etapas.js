@@ -7,10 +7,9 @@ let etapas = [
                 numero: '13',
                 name: "Dilma Roussef",
                 partido: 'PT',
-                vice: 'Temer',
                 fotos: [
                     { url: 'dilma.jpg', legenda: 'Presidente'},
-                    {url: 'temer.jpg', legenda: 'Vice-presidente', small: true}
+                    {url: 'temer.jpg', legenda: 'Vice-presidente'}
                 ]
             },
             {
@@ -18,8 +17,8 @@ let etapas = [
                 name: "Jair Messias Bolsonaro",
                 partido: "Nenhum",
                 fotos:[
-                    {url:'bolsonaro.jpeg', legenda: 'Presidente'},
-                    {url: 'mourao.jpg', legenda: 'Vice-presidente', small: true}
+                    {url:'bolsonaro.jpg', legenda: 'Presidente'},
+                    {url: 'mourao.jpg', legenda: 'Vice-presidente'}
                 ]
             }
         ]
